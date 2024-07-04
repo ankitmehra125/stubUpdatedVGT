@@ -1,0 +1,7 @@
+class StubData{
+ static final List<String> backgroundImages = [
+    'https://s3-alpha-sig.figma.com/img/c9f7/1045/ad115c30d06ddda234c6ce0a1f165300?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ntaFAmHimH8FI1wflwUwE6eF3z~ZgSLjvgv4EJM2-Dd7qf9mXM93r~jzxjr8hOmEi-EZsMGtqCBkptW3suI76UvfgOX7df6W19p9JU0Li-B5ViF-UC22DDog68nROZbJyFI-WskzhZhCLQyqGlROLw3KQc0uUtws2qEiTMTmkRUUPC6x0fUOu3OP0mvJLlzxUYAr1MaxfnyjbJlCDUHFSrl1XQDwXeSPHkg4c2AnHScfoOrMuzp8pI6LVgidZcuKtNjBq6R24Ul9XE8uhvZH9UuchzVUB6OD1PomzgG9DuHwoWDOl2F~V1RV4OKDHpitDWVjomjPmNpV4XXwE7-XcA__',
+    'https://img.freepik.com/free-photo/shopping-girl-having-walk_23-2148023326.jpg?t=st=1718708024~exp=1718711624~hmac=1399a716c436c9663f0405d2edbc176b78fd348ae41bf289cf5ff0e9052bdf05&w=360',
+    'https://s3-alpha-sig.figma.com/img/c9f7/1045/ad115c30d06ddda234c6ce0a1f165300?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ntaFAmHimH8FI1wflwUwE6eF3z~ZgSLjvgv4EJM2-Dd7qf9mXM93r~jzxjr8hOmEi-EZsMGtqCBkptW3suI76UvfgOX7df6W19p9JU0Li-B5ViF-UC22DDog68nROZbJyFI-WskzhZhCLQyqGlROLw3KQc0uUtws2qEiTMTmkRUUPC6x0fUOu3OP0mvJLlzxUYAr1MaxfnyjbJlCDUHFSrl1XQDwXeSPHkg4c2AnHScfoOrMuzp8pI6LVgidZcuKtNjBq6R24Ul9XE8uhvZH9UuchzVUB6OD1PomzgG9DuHwoWDOl2F~V1RV4OKDHpitDWVjomjPmNpV4XXwE7-XcA__',
+  ];
+}
